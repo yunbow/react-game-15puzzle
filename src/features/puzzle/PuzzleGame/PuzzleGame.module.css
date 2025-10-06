@@ -1,0 +1,7 @@
+.gameContainer {
+  background: var(--color-card);
+  border-radius: var(--radius);
+  padding: 30px;
+  box-shadow: var(--shadow-xl);
+  border: 1px solid var(--color-border);
+}

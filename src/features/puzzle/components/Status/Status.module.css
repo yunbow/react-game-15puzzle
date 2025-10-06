@@ -1,0 +1,14 @@
+.status {
+  margin-top: 20px;
+  font-size: 18px;
+  text-align: center;
+  color: var(--color-foreground);
+}
+
+.winMessage {
+  font-size: 24px;
+  color: var(--color-primary);
+  text-shadow: var(--shadow-sm);
+  margin-top: 20px;
+  font-weight: bold;
+}
